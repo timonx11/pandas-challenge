@@ -1,7 +1,10 @@
 # pandas-challenge
-Timothius Nugraha Module 4 Challenge github
 
-n this assignment, you’ll create and manipulate Pandas DataFrames to analyse school and standardised test data.
+Timothius Nugraha Module 4 Challenge github
+------------------------------------------------------------------------------------------------------------------------------------------
+PLEASE USE JUPYTER FILE INSIDE THE PyCitySchools Folder for the solved results.
+------------------------------------------------------------------------------------------------------------------------------------------
+In this assignment, you’ll create and manipulate Pandas DataFrames to analyse school and standardised test data.
 
 Background
 You are the new Chief Data Scientist for your local government area. In this capacity, you'll be helping the school board and mayor make strategic decisions regarding future school budgets and priorities.
